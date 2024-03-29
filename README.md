@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando NextJS
 - 💻 Cursando Análise e Desenvolvimento de Sistemas - IFRO
-- 📊 Cursando Banco de Dados: Ênfase em Data Analytics - PUCRS (Ead)
 
   
 <div style="display: inline_block"><br>
