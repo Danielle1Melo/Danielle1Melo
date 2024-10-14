@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Danielle Melo 🧑‍💻
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando NextJS
+- 🌱 Estudando NextJS e Angular
 - 💻 Cursando Análise e Desenvolvimento de Sistemas - IFRO
 
   
