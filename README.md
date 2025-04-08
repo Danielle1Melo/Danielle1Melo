@@ -1,20 +1,30 @@
-### Olá! Eu sou a Danielle Melo 🧑‍💻
+# 👋 Hi, I'm Danielle Melo!
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando NextJS e Angular
-- 💻 Cursando Análise e Desenvolvimento de Sistemas - IFRO
+- 👩🏻‍💻 Front developer
+- 💻 Studying Systems Analysis and Development - IFRO
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dani-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dani-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dani-Anjular" height="38" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Dani-Anjular" height="28" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Dani-Anjular" height="34" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+# 💻 Tech Stack
+<div style="display: inline_block" align="center"><br>
+  <img  alt="Dani-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+  <img  alt="Dani-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+  <img  alt="Dani-React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
+  <img  alt="Dani-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
+  <img alt="Dani-ReactContext"  src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">&nbsp;
+  <img  alt="Dani-ReactQuery"  src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">&nbsp;
+  <img alt="Dani-ReactRouter"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;
+  <img  alt="Dani-ReactHookForm"  src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">&nbsp;
+  <img  alt="Dani-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
+  <img  alt="Dani-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">&nbsp;
+  <img  alt="Dani-Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;
+  <img  alt="Dani-Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img alt="Dani-Sass" src="https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass">&nbsp;
+  <img alt="Dani-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+  <img alt="Dani-Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
+  <img alt="Dani-Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;
+  <img alt="Dani-Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+  <img  alt="Dani-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
 </div>
+ <br>
 
 ##
  
