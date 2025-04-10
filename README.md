@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px" >  Hi, I'm Danielle Melo! <br>
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px" >  Hi, I'm Danielle Melo! <br>
 
   👩🏻‍💻 Front developer <br>
    💻 Studying Systems Analysis and Development - IFRO <br>
@@ -14,9 +14,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div><br>
-
-### 💻 Tech Stack
 <div style="display: inline_block" align="center"><br>
+  
+### 💻 Tech Stack
+
   <img  alt="Dani-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
   <img  alt="Dani-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
   <img  alt="Dani-React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
@@ -37,21 +38,14 @@
   <img  alt="Dani-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
 </div> </br>
 
-### 📊 Statistics
 
-<div align="center" >
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding: 5px; gap: 100px"  
-    src="https://github-readme-stats.vercel.app/api?username=Danielle1Melo&show_icons=true&theme=synthwave&include_all_commits=true" 
-  />
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    style="padding: 5px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle1Melo&theme=synthwave&layout=compact&custom_title=Technologies&langs_count=15" 
-  />
+<div align="center">
+
+  ### 📊 Statistics
+
+  <a href="https://github.com/Danielle1Melo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielle1Melo&show_icons=true&theme=synthwave&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle1Melo&theme=synthwave&layout=compact&custom_title=Technologies&langs_count=15"/>
 </div>
 
 
