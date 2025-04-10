@@ -1,9 +1,21 @@
-# 👋 Hi, I'm Danielle Melo!
 
-- 👩🏻‍💻 Front developer
-- 💻 Studying Systems Analysis and Development - IFRO
 
-# 💻 Tech Stack
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px" >  Hi, I'm Danielle Melo! <br>
+
+  👩🏻‍💻 Front developer <br>
+   💻 Studying Systems Analysis and Development - IFRO <br>
+</br>
+    <a href="mailto:daniellee.4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/danielle-melo-0013b823a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div><br>
+
+### 💻 Tech Stack
 <div style="display: inline_block" align="center"><br>
   <img  alt="Dani-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
   <img  alt="Dani-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
@@ -23,14 +35,23 @@
   <img alt="Dani-Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;
   <img alt="Dani-Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
   <img  alt="Dani-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
-</div>
- <br>
+</div> </br>
 
-##
- 
-<div> 
-  <a href = "mailto:daniellee.4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielle-silva-de-melo-0013b823a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+### 📊 Statistics
+
+<div align="center" >
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding: 5px; gap: 100px"  
+    src="https://github-readme-stats.vercel.app/api?username=Danielle1Melo&show_icons=true&theme=synthwave&include_all_commits=true" 
+  />
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    style="padding: 5px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle1Melo&theme=synthwave&layout=compact&custom_title=Technologies&langs_count=15" 
+  />
 </div>
+
 
