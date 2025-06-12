@@ -1,6 +1,6 @@
 
 
-<div align="center">
+
   
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px" >  Hi, I'm Danielle Melo! <br>
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
   
 ### 💻 Tech Stack
 
@@ -35,16 +35,16 @@
   <img alt="Dani-Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;
   <img alt="Dani-Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
   <img  alt="Dani-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
-</div> </br>
+ </br>
 
 
-<div align="center">
+
 
   ### 📊 Statistics
 
   <a href="https://github.com/Danielle1Melo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielle1Melo&show_icons=true&theme=synthwave&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle1Melo&theme=synthwave&layout=compact&custom_title=Technologies&langs_count=15"/>
-</div>
+
 
 
