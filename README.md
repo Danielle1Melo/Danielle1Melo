@@ -4,7 +4,7 @@
   
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px" >  Hi, I'm Danielle Melo! <br>
 
-  👩🏻‍💻 Front developer <br>
+  👩🏻‍💻 Junior developer <br>
    💻 Studying Systems Analysis and Development - IFRO <br>
 </br>
     <a href="mailto:daniellee.4@gmail.com">
