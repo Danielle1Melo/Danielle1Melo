@@ -47,7 +47,7 @@
 
   <a href="https://github.com/Danielle1Melo">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Danielle1Melo&show_icons=true&theme=synthwave&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Danielle1Melo&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle1Melo&theme=synthwave&layout=compact&custom_title=Technologies&langs_count=15"/>
 
 
