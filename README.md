@@ -7,7 +7,7 @@
   👩🏻‍💻 Junior developer <br>
    💻 Studying Systems Analysis and Development - IFRO <br>
 </br>
-    <a href="mailto:daniellee.4@gmail.com">
+    <a href="mailto:danielleesilva.4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/danielle-melo-0013b823a/" target="_blank">
@@ -34,6 +34,7 @@
   <img  alt="Dani-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
   <img  alt="Dani-MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
   <img  alt="Dani-Mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
+  <img  alt="Dani-Postgress" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
  </br>
 
 
